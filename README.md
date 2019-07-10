@@ -30,4 +30,6 @@ git commit -m "commit-message"
 git push
 
 9) pull from repo 
-git pull
+git pull //pull using this command
+
+10) demo
